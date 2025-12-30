@@ -6,15 +6,11 @@ Contador de cliques: [Acesse o aplicativo aqui](https://albuquerque-katarine.git
 
 ### I. Sobre o projeto
 
-* Registra o número de vezes que um botão é clicado pelo usuário.
-
-* Utiliza JavaScript para atualizar dinamicamente o valor exibido na tela.
-
-* Inclui funções de reset e limite máximo de 10 cliques.
-
-* Cada numeral apresenta uma cor.
-
-* Uso de eventos, manipulação do DOM e variáveis.
+- Registra o número de vezes que um botão é clicado pelo usuário.
+- Utiliza JavaScript para atualizar dinamicamente o valor exibido na tela.
+- Inclui funções de reset e limite máximo de 10 cliques.
+- Cada numeral apresenta uma cor.
+- Uso de eventos, manipulação do DOM e variáveis.
 
 ### II. Diagrama de Caso de Uso
 
